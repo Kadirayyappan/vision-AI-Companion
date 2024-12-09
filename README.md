@@ -8,8 +8,7 @@ Vision AI Companion is an advanced Streamlit-based application that provides vis
 - **Extract Text**: Extract visible text using OCR from the uploaded image.
 - **Text-to-Speech**: Hear the extracted text aloud using a text-to-speech engine.
 
-  ## ![Sample Image](C:\Users\kadir\OneDrive\Pictures\Screenshots\Screenshot%202024-12-09%20231208.png)
-
+## ![Sample Image](https://github.com/Kadirayyappan/vision-AI-Companion/blob/main/vision%20ai/Screenshot%202024-12-09%20231208.png)
 ## How It Works
 1. **Upload an Image**: Drag and drop or browse an image in JPG, JPEG, or PNG format.
 2. **Choose a Feature**:
